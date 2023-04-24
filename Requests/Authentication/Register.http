@@ -1,0 +1,14 @@
+@host=https://localhost:7023
+POST {{host}}/api/auth/register
+Content-Type: application/json
+
+{
+  "firstName": "Zayd",
+  "lastName": "Laroussi",
+  "email": "zayd.laroussi@gmail.com",
+  "phoneNumber": "+33659988542",
+  "country": "FR",
+  "companyName": "Humaxoo",
+  "companySize": "BTW_10_20"
+}
+

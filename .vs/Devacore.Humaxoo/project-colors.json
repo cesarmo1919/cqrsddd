@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9effd65-0980-465d-9824-75475b1a9579": {
+      "ProjectGuid": "a9effd65-0980-465d-9824-75475b1a9579",
+      "DisplayName": "Devacore.Humaxoo.Application",
+      "ColorIndex": 0
+    },
+    "a6aab265-09d4-4b5a-b689-01ee3325b128": {
+      "ProjectGuid": "a6aab265-09d4-4b5a-b689-01ee3325b128",
+      "DisplayName": "Devacore.Humaxoo.Api",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

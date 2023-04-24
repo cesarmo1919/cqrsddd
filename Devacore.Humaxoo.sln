@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devacore.Humaxoo.Api", "Devacore.Humaxoo.Api\Devacore.Humaxoo.Api.csproj", "{A6AAB265-09D4-4B5A-B689-01EE3325B128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devacore.Humaxoo.Contracts", "Devacore.Humaxoo.Contracts\Devacore.Humaxoo.Contracts.csproj", "{2A772230-8253-444B-92FB-BA3650876E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devacore.Humaxoo.Application", "Devacore.Humaxoo.Application\Devacore.Humaxoo.Application.csproj", "{A9EFFD65-0980-465D-9824-75475B1A9579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devacore.Humaxoo.Infrastructure", "Devacore.Humaxoo.Infrastructure\Devacore.Humaxoo.Infrastructure.csproj", "{D60F731D-8CDD-4CC9-A435-DE69ACF4FEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devacore.Humaxoo.Domain", "Devacore.Humaxoo.Domain\Devacore.Humaxoo.Domain.csproj", "{81ECA27F-35F1-4056-ABD3-4FAD5F236EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AAB265-09D4-4B5A-B689-01EE3325B128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AAB265-09D4-4B5A-B689-01EE3325B128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AAB265-09D4-4B5A-B689-01EE3325B128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AAB265-09D4-4B5A-B689-01EE3325B128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A772230-8253-444B-92FB-BA3650876E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A772230-8253-444B-92FB-BA3650876E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A772230-8253-444B-92FB-BA3650876E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A772230-8253-444B-92FB-BA3650876E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EFFD65-0980-465D-9824-75475B1A9579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EFFD65-0980-465D-9824-75475B1A9579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EFFD65-0980-465D-9824-75475B1A9579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EFFD65-0980-465D-9824-75475B1A9579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F731D-8CDD-4CC9-A435-DE69ACF4FEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F731D-8CDD-4CC9-A435-DE69ACF4FEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F731D-8CDD-4CC9-A435-DE69ACF4FEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F731D-8CDD-4CC9-A435-DE69ACF4FEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ECA27F-35F1-4056-ABD3-4FAD5F236EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ECA27F-35F1-4056-ABD3-4FAD5F236EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ECA27F-35F1-4056-ABD3-4FAD5F236EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ECA27F-35F1-4056-ABD3-4FAD5F236EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

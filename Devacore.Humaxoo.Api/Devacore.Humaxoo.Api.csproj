@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>f54ffd2b-06d4-49f7-b4f4-c9c66a44859f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Devacore.Humaxoo.Application\Devacore.Humaxoo.Application.csproj" />
+    <ProjectReference Include="..\Devacore.Humaxoo.Contracts\Devacore.Humaxoo.Contracts.csproj" />
+    <ProjectReference Include="..\Devacore.Humaxoo.Infrastructure\Devacore.Humaxoo.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

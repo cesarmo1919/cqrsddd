@@ -1,0 +1,17 @@
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Infrastructure.deps.json
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Infrastructure.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\ref\Devacore.Humaxoo.Infrastructure.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Infrastructure.pdb
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.csproj.AssemblyReference.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.AssemblyInfoInputs.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.AssemblyInfo.cs
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.csproj.CoreCompileInputs.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\ref\Devacore.Humaxoo.Infrastructure.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.pdb
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Application.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Domain.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Application.pdb
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\bin\Debug\net6.0\Devacore.Humaxoo.Domain.pdb
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Infrastructure\obj\Debug\net6.0\Devacore.Humaxoo.Infrastructure.csproj.CopyComplete

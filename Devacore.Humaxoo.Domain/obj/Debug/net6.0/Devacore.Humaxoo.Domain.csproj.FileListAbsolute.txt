@@ -1,0 +1,12 @@
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\bin\Debug\net6.0\Devacore.Humaxoo.Domain.deps.json
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\bin\Debug\net6.0\Devacore.Humaxoo.Domain.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\bin\Debug\net6.0\ref\Devacore.Humaxoo.Domain.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\bin\Debug\net6.0\Devacore.Humaxoo.Domain.pdb
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.csproj.AssemblyReference.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.AssemblyInfoInputs.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.AssemblyInfo.cs
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.csproj.CoreCompileInputs.cache
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\ref\Devacore.Humaxoo.Domain.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Domain\obj\Debug\net6.0\Devacore.Humaxoo.Domain.pdb

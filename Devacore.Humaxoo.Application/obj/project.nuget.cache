@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5OXYIFqEa/IYw2mPOkGAWaNsVho5AwPRBL39kloLBDWcFj5DzdGlb9p1evGKYuo3QCjdmnMREqbNUQZfZkJiw==",
+  "success": true,
+  "projectFilePath": "E:\\work\\2023\\v1\\Devacore.Humaxoo\\Devacore.Humaxoo.Application\\Devacore.Humaxoo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zayd\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
