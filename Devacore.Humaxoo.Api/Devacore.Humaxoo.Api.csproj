@@ -8,6 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Devacore.Humaxoo.Application\Devacore.Humaxoo.Application.csproj" />
     <ProjectReference Include="..\Devacore.Humaxoo.Contracts\Devacore.Humaxoo.Contracts.csproj" />
     <ProjectReference Include="..\Devacore.Humaxoo.Infrastructure\Devacore.Humaxoo.Infrastructure.csproj" />

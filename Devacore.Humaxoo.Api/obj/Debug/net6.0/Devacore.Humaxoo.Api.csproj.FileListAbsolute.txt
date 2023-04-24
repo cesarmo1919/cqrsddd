@@ -46,3 +46,6 @@ E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Microsoft
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\MediatR.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.Core.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
