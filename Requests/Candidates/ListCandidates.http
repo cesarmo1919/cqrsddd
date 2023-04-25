@@ -1,0 +1,2 @@
+@host=https://localhost:7023
+GET {{host}}/api/candidates

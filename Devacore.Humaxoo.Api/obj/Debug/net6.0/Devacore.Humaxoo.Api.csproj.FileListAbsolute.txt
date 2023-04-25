@@ -53,3 +53,6 @@ E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentVal
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\obj\Debug\net6.0\Devacore.Humaxoo.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

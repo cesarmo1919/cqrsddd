@@ -6,10 +6,12 @@ using MediatR;
 using Devacore.Humaxoo.Application.Authentication.Commands.Register;
 using Devacore.Humaxoo.Application.Authentication.Queries.Login;
 using MapsterMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Devacore.Humaxoo.Api.Controllers;
 
 [Route("/api/auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;
