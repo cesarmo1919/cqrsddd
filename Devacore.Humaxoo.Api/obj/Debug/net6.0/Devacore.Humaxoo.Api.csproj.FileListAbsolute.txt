@@ -49,3 +49,7 @@ E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\MediatR.E
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.Core.dll
 E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentValidation.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\work\2023\v1\Devacore.Humaxoo\Devacore.Humaxoo.Api\obj\Debug\net6.0\Devacore.Humaxoo.Api.MvcApplicationPartsAssemblyInfo.cs

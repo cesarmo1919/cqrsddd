@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "N5sgFHNOKA9kiEtvx6J8viRLRC2xqI2mS0BfD0/dhpwblxiQj4gurvyg1kB3Zy/8jdr05qDlKD0ouT6zuL7p+Q==",
+  "dgSpecHash": "jDO99121+F5liwnMb2Q7/cku3xslkAXhhoVs4NTpdBw8P852vADct1JdkrXQWkmtezl+9sh3c+Y3n22WNGvMgQ==",
   "success": true,
   "projectFilePath": "E:\\work\\2023\\v1\\Devacore.Humaxoo\\Devacore.Humaxoo.Api\\Devacore.Humaxoo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zayd\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mapster.dependencyinjection\\1.0.0\\mapster.dependencyinjection.1.0.0.nupkg.sha512",

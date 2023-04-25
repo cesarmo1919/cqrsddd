@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "v5OXYIFqEa/IYw2mPOkGAWaNsVho5AwPRBL39kloLBDWcFj5DzdGlb9p1evGKYuo3QCjdmnMREqbNUQZfZkJiw==",
+  "dgSpecHash": "BkEKKevUuKRINTFceh6GcXHPxhSJmiXco0Zb8hRCLlXqaef5j2hc/rc9jp35/Yqcz1Si/suyhrwS28umDslQ4A==",
   "success": true,
   "projectFilePath": "E:\\work\\2023\\v1\\Devacore.Humaxoo\\Devacore.Humaxoo.Application\\Devacore.Humaxoo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zayd\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Zayd\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Zayd\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
